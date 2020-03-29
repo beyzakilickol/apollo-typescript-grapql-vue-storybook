@@ -4,7 +4,7 @@ To create a vue project, run the command below:
 <br> 
 
 ```
-$ vue create nes100_storefront
+$ vue create <project_name>
 ``` 
 <br>
 
@@ -88,7 +88,7 @@ Here is the sample apollo.config.js file:
 module.exports = {
   client: {
     service: {
-      name: "new_pz_storefront",
+      name: "storefront",
       url: "http://localhost:4000/graphql/",
     },
     includes: ['src/graphql/**/*.{js,jsx,ts,tsx,vue,gql}'], // this path depends on where you want to place your grapql files.
