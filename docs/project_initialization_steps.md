@@ -4,7 +4,7 @@ To create a vue project, run the command below:
 <br> 
 
 ```
-$ vue create nes100_storefront
+$ vue create <project_name>
 ``` 
 <br>
 
