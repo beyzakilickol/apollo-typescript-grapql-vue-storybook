@@ -1,5 +1,3 @@
-# new_pz_storefront
-
 ## Project setup
 ```
 npm install
